@@ -1,0 +1,3 @@
+exclude: [CNAME]
+timezone: Aisa/Seoul
+paginate: 5
