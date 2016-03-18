@@ -1,3 +1,5 @@
+enforce_ssl: amoo.me
 exclude: [CNAME]
 timezone: Aisa/Seoul
 paginate: 5
+gems: [jekyll-paginate]
